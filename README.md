@@ -19,7 +19,7 @@ Skills: claude Code/ Vibe Coding / Langflow / Zapier / n8n / Java /  REACT / JS 
 - 👨‍💻 All of my projects are available at [https://github.com/shonjita-mozumder](https://github.com/shonjita-mozumder)
 
 - 💬 Ask me about **n8n, Zapier, Vibe Coding, claude Code, HTML5, CSS3, JS, TailwindCSS, ReactJS, NextJS**
-
+  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -73,7 +73,7 @@ Skills: claude Code/ Vibe Coding / Langflow / Zapier / n8n / Java /  REACT / JS 
   <br/>
 </a>
 
-![Shonjita's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shonjita-mozumder&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shonjita's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shonjita-mozumder&custom_title=Shonjita's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
@@ -83,13 +83,13 @@ Skills: claude Code/ Vibe Coding / Langflow / Zapier / n8n / Java /  REACT / JS 
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
+<a href="https://twitter.com/shonjita-mozumder" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/shonjita-mozumder/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
+<a href="https://www.facebook.com/shonjita-mozumder" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
