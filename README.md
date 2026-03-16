@@ -33,9 +33,10 @@ Skills: claude Code/ Vibe Coding / Langflow / Zapier / n8n / Java /  REACT / JS 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
-<a href="www.linkedin.com/in/shonjita-rani-mozumdar-182a103a1" target="blank">
+<a href="https://www.linkedin.com/in/shonjita-rani-mozumdar-182a103a1" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
        alt="shonjita-mozumder" height="30" width="40" />
+</a>
 </a>
 </p>
 ## Use To Code
