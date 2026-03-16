@@ -83,13 +83,13 @@ Skills: claude Code/ Vibe Coding / Langflow / Zapier / n8n / Java /  REACT / JS 
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/shonjita-mozumder" target="_blank">
+<a href="[https://twitter.com/shonjita-mozumder](https://x.com/shonjitaAI)" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.linkedin.com/in/shonjita-mozumder/" target="_blank">
+<a href="www.linkedin.com/in/shonjita-rani-mozumdar-182a103a1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/shonjita-mozumder" target="_blank">
+<a href=["https://www.facebook.com/shonjita-mozumder](https://www.facebook.com/share/1Fx6nDegAh/)" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
